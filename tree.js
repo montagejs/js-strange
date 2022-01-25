@@ -15,7 +15,7 @@ module.exports = RangeTree
  *
  * **Import**:
  * ```javascript
- * var RangeTree = require("strange/tree")
+ * var RangeTree = (require)("strange/tree")
  * ```
  *
  * @example
