@@ -15,7 +15,7 @@ module.exports = Range
  *
  * **Import**:
  * ```javascript
- * var Range = require("strange")
+ * var Range = (require)("strange")
  * ```
  *
  * @example
